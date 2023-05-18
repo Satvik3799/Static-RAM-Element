@@ -1,2 +1,2 @@
 # Static-RAM-Element
-The HOD of our department had presented an opportunity to fabricate a 1X1 Static RAM element using basic IC components. In addition to fabrication of the 1X1 matrix, I also created simulation of RAM units of various memory sizes using MATLAB.
+Memory is the portion of a computer or other system that store binary data. In a computer, memory is accessed millions of times per second, so the requirement for speed and accuracy is paramount, Very fast semiconductor memory is available today in modules with several GB of capacity. These large –memory modules use exactly the same operating principles as smaller units, so we are using smaller ones for illustration.
